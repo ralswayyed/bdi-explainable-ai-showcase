@@ -2,7 +2,7 @@
 
 Bachelor's project by Rakan Al-Swayyed · Universität Hildesheim · 2020
 
-This research project explored how a belief-desire-intention (BDI) agent architecture can make case-based architectural design recommendations easier to understand. It extended the MetisCBR research framework with agents that organize and generate explanations for floor-plan retrieval results.
+This bachelor thesis documents the development and implementation of belief-desire-intention (BDI) agents as an explanation component for MetisCBR, supporting case-based architectural floor-plan retrieval in early design phases.
 
 ## Research question
 
