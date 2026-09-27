@@ -24,6 +24,8 @@ The prototype covered room-graph, adjacency, accessibility, and full-graph floor
 
 ## Agent workflow
 
+![BDI explanation workflow](assets/bdi-explanation-workflow.svg)
+
 The BDI design separates responsibilities across three cooperating agents:
 
 1. **Belief** receives a request, identifies the applicable fingerprint, and returns the completed explanation.
@@ -33,6 +35,8 @@ The BDI design separates responsibilities across three cooperating agents:
 This structure linked case-based retrieval with a traceable, user-facing explanation workflow.
 
 ## Historical evaluation
+
+![Historical explanation-pattern distribution](assets/historical-evaluation-distribution.svg)
 
 The 2020 thesis evaluated 48 queries across four fingerprint types. In that controlled study, the reported aggregate outcomes were 43% Justification, 40% combined Justification and Transparency, 16% Transparency, and 1% Relevance. These are historical research findings from the thesis, not claims of present-day system performance.
 
